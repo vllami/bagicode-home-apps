@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MotionScene xmlns:motion="http://schemas.android.com/apk/res-auto">
+    <Transition
+        motion:constraintSetEnd="@layout/activity_welcome_end"
+        motion:constraintSetStart="@layout/activity_welcome_start"
+        motion:duration="1000">
+
+        <!-- Menggunakan OnClick dengan id imgHomee, agar saat
+        klik komponen dengan id tersebut.. muncul sesuai transisi
+        yang dibuat -->
+        <OnClick motion:targetId="@+id/imgHomee" />
+    </Transition>
+</MotionScene>

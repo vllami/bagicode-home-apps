@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Homee</string>
+    <string name="icon_homee">Icon Homee</string>
+    <string name="btn_get_started">Get Started</string>
+    <string name="login">Login</string>
+    <string name="txt_please_login">Please Login to continue</string>
+    <string name="txt_dont_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="txt_already_have_an_account">Already have an account?</string>
+    <string name="createAccount">Create Account</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="default_avatar">BC</string>
+    <string name="welcome">Welcome,</string>
+    <string name="name">Villa Mukti Indriyanto</string>
+    <string name="profile">Profile</string>
+    <string name="financial">Financial</string>
+</resources>
